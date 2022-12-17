@@ -1,0 +1,4 @@
+Luas persegi dengan sisi 33.0 adalah 1089.0
+Luas persegi panjang dengan panjang 22.0 dan lebar 23.0 adalah 506.0
+Luas segitiga dengan alas 32.0 dan tinggi 22.0 adalah 352.0
+Luas lingkaran dengan jari-jari 22.0 adalah 1520.5308443374597
